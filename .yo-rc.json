@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.14.0",
+    "sdksVersions": {},
+    "version": "1.22.2",
+    "libraryName": "service-health-dashboard-spfx-22",
+    "libraryId": "f7896d7e-c2db-4a7f-8c1a-66013d9c2b11",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "service-health-dashboard-spfx22",
+    "solutionShortDescription": "service-health-dashboard-spfx22 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

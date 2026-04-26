@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "service-health-dashboard-spfx-22-client-side-solution",
+    "id": "f7896d7e-c2db-4a7f-8c1a-66013d9c2b11",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "service-health-dashboard-spfx22 description"
+      },
+      "longDescription": {
+        "default": "service-health-dashboard-spfx22 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "service-health-dashboard-spfx-22 Feature",
+        "description": "The feature that activates elements of the service-health-dashboard-spfx-22 solution.",
+        "id": "fc1ca325-c97f-4f43-83c5-e3808ac16fb8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/service-health-dashboard-spfx-22.sppkg"
+  }
+}
